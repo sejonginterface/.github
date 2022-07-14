@@ -38,7 +38,8 @@
 
 ## 🐮 소모임
 
-| 저장소 | 슬로건 | 모집 시기 | 진행 행사 |
+| 저장소 | 슬로건 | 진행 행사 |
 | --- | --- | --- | --- |
-| [RGRG](https://github.com/sejonginterface/RGRG) | `코드는 짜고 주석은 달고 백준은 맵다` | `여름 방중 모임 이후` | `알고리즘 경시대회` |
-| [인터페이스글쓰기소모임](https://github.com/sejonginterface/InterfaceWritingCircle) | ~추천받습니다~ | `상시모집` | `회고 모임` |
+| [RGRG](https://github.com/sejonginterface/RGRG) | `코드는 짜고 주석은 달고 백준은 맵다` | `알고리즘 경시대회` |
+| [인터페이스글쓰기소모임](https://github.com/sejonginterface/InterfaceWritingCircle) |  `몰?루` (추천 받아요) | `회고 모임` |
+| [Open-IF](https://github.com/sejonginterface/Open-IF) | `인페는 열린 문~` | `오픈소스 컨트리뷰션` | 
