@@ -17,6 +17,8 @@
 
 > LOL 관련 퀴즈 사이트
 
+깃허브 : [sejong.GG] (https://github.com/Sejong-GG/Sejong.GG)
+
 - 챔피언 평가만으로 LOL 챔피언 이름을 맞추는 사이트
 - LOL 트렌드를 알 수 있는 퀴즈 게임
 
