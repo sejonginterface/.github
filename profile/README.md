@@ -12,7 +12,7 @@
 | `2018` | [제 2회 인프전](https://github.com/sejonginterface/.github/tree/main/profile/if-programming-exhibition/2018/README.md) | 
 | `2019` | [제 3회 인프전](https://github.com/sejonginterface/.github/tree/main/profile/if-programming-exhibition/2019/README.md) |
 | `2021` | [제 4회 인프전](#) |
-| `2022` | [제 5회 인프전](#) |
+| `2022` | [제 5회 인프전](https://github.com/sejonginterface/.github/tree/main/profile/if-programming-exhibition/2021/README.md) |
 
 ## 🔥 인커톤
 - 인터페이스 자체 해커톤
