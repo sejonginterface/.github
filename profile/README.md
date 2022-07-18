@@ -19,7 +19,7 @@
 
 | 연도 | README |
 | :---: | --- |
-| `2021` | [2021 인커톤(광진구 점령전)](https://github.com/sejonginterface/2021_interface_hackathon/blob/main/README.md) |
+| `2021` | [2021 인커톤(광진구 점령전)](https://github.com/sejonginterface/.github/tree/main/profile/interface_hackathon/2021/README.md) |
 | `2022` | [2022 인커톤](#) |
 
 ## 💖 인퍼런스
