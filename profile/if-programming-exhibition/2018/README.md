@@ -5,6 +5,8 @@
   <img width = "400px;" src="./2018-poster.png" />
 </p>
 
+[프로그래밍 전시회 기사](https://m.blog.naver.com/sejong_univ/221185221911)
+
 ## 1팀 - 저 세상 여행지 추천 어플
 
 > 앱 인벤터를 이용해 만든 똑똑한 여행지 추천 어플리케이션
