@@ -4,7 +4,8 @@
   <img width = "500px;" src="if_hack.png" />
 </p>
 
-> 장소 : 2022년 7월 20일 수요일 - 7월 21일 목요일 센B103
+> 장소 : 센B103
+> 시간 : 2022년 7월 20일 수요일 - 7월 21일 목요일 
 <br> 
 <br> 
 
@@ -18,7 +19,7 @@
 </p>
 <br> 
 
-### 참여자
+### 규태는 상욱이를 좋아해 팀원
 <table>
   <tr>
      <td align="center"><a href="https://github.com/alro923"><img src="https://github.com/sw0501.png" width="100px;" alt=""/><br/><sub><b>31기 박상욱</b></sub></a><br/></td>
@@ -55,7 +56,7 @@
  <img width="400" alt="image" src="https://user-images.githubusercontent.com/77824364/180483244-b3028c73-9317-44d6-af28-07faee2cd9f2.png">
 </p><br>
 
-### 보글부글 참여자
+### 보글부글 팀원
 <table>
   <tr>
      <td align="center"><a href="https://github.com/alro923"><img src="https://github.com/alro923.png" width="100px;" alt=""/><br/><sub><b>31기 이현주</b></sub></a><br/></td>
