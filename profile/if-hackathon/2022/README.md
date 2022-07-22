@@ -11,8 +11,6 @@
 ## 세종대학교 공지 알리미 디스코드 봇 - 규태는 상욱이를 좋아해 (31기 박상욱, 35기 박규태)
 > 인터페이스 디스코드에서 사용할 있는 세종대학교 공지 알리미 디스코드 봇
 
-<a href='https://github.com/SejongUniv-Notice-Reminder-Discord-Bot/Notice-Reminder-Discord-Bot'><img alt='규태는 상욱이를 좋아해 repo' height ="60" src='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg'></a>
-
 <p align="center">
   <img width="600" alt="image" src="https://user-images.githubusercontent.com/77824364/180480764-1f716216-ecfd-482e-829a-357c4353cba2.png">
 </p>
@@ -21,8 +19,9 @@
 ### 규태는 상욱이를 좋아해 팀원
 <table>
   <tr>
-     <td align="center"><a href="https://github.com/alro923"><img src="https://github.com/sw0501.png" width="100px;" alt=""/><br/><sub><b>31기 박상욱</b></sub></a><br/></td>
-     <td align="center"><a href="https://github.com/HayunKwon"><img src="https://github.com/KyuTae98.png" width="100px;" alt=""/><br/><sub><b>35기 박규태</b></sub></a><br/></td>
+	<td align="center"><a href="https://github.com/SejongUniv-Notice-Reminder-Discord-Bot/Notice-Reminder-Discord-Bot"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="100px;" alt=""/><br/><sub><b>깃허브</b></sub></a><br/></td>
+     <td align="center"><a href="https://github.com/sw0501"><img src="https://github.com/sw0501.png" width="100px;" alt=""/><br/><sub><b>31기 박상욱</b></sub></a><br/></td>
+     <td align="center"><a href="https://github.com/KyuTae98"><img src="https://github.com/KyuTae98.png" width="100px;" alt=""/><br/><sub><b>35기 박규태</b></sub></a><br/></td>
   </tr>
 </table>
 <br>
@@ -43,9 +42,6 @@
 ## 보글부글 - 상욱이는 규태를 싫어해 (31기 이현주, 32기 권하윤, 동기창, 34기 이규리)
 > 1인 가구를 위한 생할 관리 어플리케이션
 
-
-<a href='https://github.com/BoggleBoogle'><img alt='보글부글 repo' height ="60" src='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg'></a>
-
 <p align="center">
   <img width="600" alt="image" src="https://user-images.githubusercontent.com/77824364/180484940-962d0831-6deb-4400-9f54-b459fb7ce9d1.png">
 </p>
@@ -58,6 +54,7 @@
 ### 보글부글 팀원
 <table>
   <tr>
+	  <td align="center"><a href="https://github.com/BoggleBoogle"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="100px;" alt=""/><br/><sub><b>깃허브</b></sub></a><br/></td>
      <td align="center"><a href="https://github.com/alro923"><img src="https://github.com/alro923.png" width="100px;" alt=""/><br/><sub><b>31기 이현주</b></sub></a><br/></td>
      <td align="center"><a href="https://github.com/HayunKwon"><img src="https://github.com/HayunKwon.png" width="100px;" alt=""/><br/><sub><b>32기 권하윤</b></sub></a><br/></td>
      <td align="center"><a href="https://github.com/ddongguri"><img src="https://github.com/ddongguri.png" width="100px;" alt=""/><br/><sub><b>32기 동기창</b></sub></a><br/></td>
