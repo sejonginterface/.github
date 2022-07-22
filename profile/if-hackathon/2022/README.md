@@ -77,6 +77,7 @@
   <img width="400" alt="image" src="https://user-images.githubusercontent.com/77824364/180485457-6239eb6f-f19b-4a1f-9664-ff2f4cf5208c.png">
   <img width="400" alt="image" src="https://user-images.githubusercontent.com/77824364/180485519-c06d4029-83da-45eb-b5b4-6c8c134a5092.png">
 </p>
+<br>
 
 ## 도토리 키 재기 - 31기 강지원
 > 인터페이스 웹페이지
