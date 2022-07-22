@@ -34,8 +34,8 @@
 </p>
 
 <p align="center">
-  <img width="400" alt="image" src="https://user-images.githubusercontent.com/77824364/180482463-d829f5c4-1790-4728-a180-ef7a948dd404.png">
-  <img width="400" alt="image" src="https://user-images.githubusercontent.com/77824364/180482495-2a9110bf-7a64-465f-822b-b2bb0371f2c9.png">
+  <img width="500" alt="image" src="https://user-images.githubusercontent.com/77824364/180482463-d829f5c4-1790-4728-a180-ef7a948dd404.png">
+  <img width="500" alt="image" src="https://user-images.githubusercontent.com/77824364/180482495-2a9110bf-7a64-465f-822b-b2bb0371f2c9.png">
 </p>
 <br> 
 
@@ -47,8 +47,8 @@
 </p>
                                                                                                                                          
 <p align="center">
- <img width="400" alt="image" src="https://user-images.githubusercontent.com/77824364/180483313-0662600b-a579-4b3b-8e44-d4f0b457bb10.png">
- <img width="400" alt="image" src="https://user-images.githubusercontent.com/77824364/180483244-b3028c73-9317-44d6-af28-07faee2cd9f2.png">
+ <img width="500" alt="image" src="https://user-images.githubusercontent.com/77824364/180483313-0662600b-a579-4b3b-8e44-d4f0b457bb10.png">
+ <img width="500" alt="image" src="https://user-images.githubusercontent.com/77824364/180483244-b3028c73-9317-44d6-af28-07faee2cd9f2.png">
 </p><br>
 
 ### 보글부글 팀원
@@ -71,8 +71,8 @@
   <img width="600" alt="image" src="https://user-images.githubusercontent.com/77824364/180485236-45fd79af-e3e2-4c20-8b43-fff292cd0a8c.png">
 </p>
 <p align="center">
-  <img width="400" alt="image" src="https://user-images.githubusercontent.com/77824364/180485457-6239eb6f-f19b-4a1f-9664-ff2f4cf5208c.png">
-  <img width="400" alt="image" src="https://user-images.githubusercontent.com/77824364/180485519-c06d4029-83da-45eb-b5b4-6c8c134a5092.png">
+  <img width="500" alt="image" src="https://user-images.githubusercontent.com/77824364/180485457-6239eb6f-f19b-4a1f-9664-ff2f4cf5208c.png">
+  <img width="500" alt="image" src="https://user-images.githubusercontent.com/77824364/180485519-c06d4029-83da-45eb-b5b4-6c8c134a5092.png">
 </p>
 <br>
 
