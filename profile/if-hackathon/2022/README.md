@@ -41,7 +41,7 @@
 <br> 
 
 ## 보글부글 - 상욱이는 규태를 싫어해 (31기 이현주, 32기 권하윤, 동기창, 34기 이규리)
-> 1인 가구르 위한 생할 관리 어플리케이션
+> 1인 가구를 위한 생할 관리 어플리케이션
 
 
 <a href='https://github.com/BoggleBoogle'><img alt='보글부글 repo' height ="60" src='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg'></a>
