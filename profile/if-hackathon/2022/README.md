@@ -19,9 +19,9 @@
 ### 규태는 상욱이를 좋아해 팀원
 <table>
   <tr>
-	<td align="center"><a href="https://github.com/SejongUniv-Notice-Reminder-Discord-Bot/Notice-Reminder-Discord-Bot"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="100px;" alt=""/><br/><sub><b>깃허브</b></sub></a><br/></td>
-     <td align="center"><a href="https://github.com/sw0501"><img src="https://github.com/sw0501.png" width="100px;" alt=""/><br/><sub><b>31기 박상욱</b></sub></a><br/></td>
-     <td align="center"><a href="https://github.com/KyuTae98"><img src="https://github.com/KyuTae98.png" width="100px;" alt=""/><br/><sub><b>35기 박규태</b></sub></a><br/></td>
+	<td align="center"><a href="https://github.com/SejongUniv-Notice-Reminder-Discord-Bot/Notice-Reminder-Discord-Bot"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="80px;" alt=""/><br/><sub><b>깃허브</b></sub></a><br/></td>
+     <td align="center"><a href="https://github.com/sw0501"><img src="https://github.com/sw0501.png" width="80px;" alt=""/><br/><sub><b>31기 박상욱</b></sub></a><br/></td>
+     <td align="center"><a href="https://github.com/KyuTae98"><img src="https://github.com/KyuTae98.png" width="80px;" alt=""/><br/><sub><b>35기 박규태</b></sub></a><br/></td>
   </tr>
 </table>
 <br>
@@ -54,11 +54,11 @@
 ### 보글부글 팀원
 <table>
   <tr>
-	  <td align="center"><a href="https://github.com/BoggleBoogle"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="100px;" alt=""/><br/><sub><b>깃허브</b></sub></a><br/></td>
-     <td align="center"><a href="https://github.com/alro923"><img src="https://github.com/alro923.png" width="100px;" alt=""/><br/><sub><b>31기 이현주</b></sub></a><br/></td>
-     <td align="center"><a href="https://github.com/HayunKwon"><img src="https://github.com/HayunKwon.png" width="100px;" alt=""/><br/><sub><b>32기 권하윤</b></sub></a><br/></td>
-     <td align="center"><a href="https://github.com/ddongguri"><img src="https://github.com/ddongguri.png" width="100px;" alt=""/><br/><sub><b>32기 동기창</b></sub></a><br/></td>
-     <td align="center"><a href="https://github.com/cu29635"><img src="https://github.com/cu29635.png" width="100px;" alt=""/><br/><sub><b>34기 이규리</b></sub></a><br/></td>
+	  <td align="center"><a href="https://github.com/BoggleBoogle"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="80px;" alt=""/><br/><sub><b>깃허브</b></sub></a><br/></td>
+     <td align="center"><a href="https://github.com/alro923"><img src="https://github.com/alro923.png" width="80px;" alt=""/><br/><sub><b>31기 이현주</b></sub></a><br/></td>
+     <td align="center"><a href="https://github.com/HayunKwon"><img src="https://github.com/HayunKwon.png" width="80px;" alt=""/><br/><sub><b>32기 권하윤</b></sub></a><br/></td>
+     <td align="center"><a href="https://github.com/ddongguri"><img src="https://github.com/ddongguri.png" width="80px;" alt=""/><br/><sub><b>32기 동기창</b></sub></a><br/></td>
+     <td align="center"><a href="https://github.com/cu29635"><img src="https://github.com/cu29635.png" width="80px;" alt=""/><br/><sub><b>34기 이규리</b></sub></a><br/></td>
   </tr>
 </table>
 <br>
@@ -77,7 +77,23 @@
 <br>
 
 ## 도토리 키 재기 - 31기 강지원
-> 인터페이스 웹페이지
+> 도토리 키재기 - 동아리에서 활동한 내용을 한 곳에 정리 + 공유하는 사이트
+
+<p align="center">
+<img width=330" alt="image" src="https://user-images.githubusercontent.com/77824364/180785817-2a7e39c2-dd0a-451a-8475-99385b45e960.png">
+<img width="330" alt="image" src="https://user-images.githubusercontent.com/77824364/180785850-4edb3958-cb09-45f0-8226-06875fc736d8.png">
+<img width="330" alt="image" src="https://user-images.githubusercontent.com/77824364/180785887-f68c2e38-9cd8-42ae-970c-4630be530f9f.png">
+
+</p>
+<br>
+
+<table>
+  <tr>
+	<td align="center"><a href="https://github.com/eug2ne/acorn-how-tall"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="80px;" alt=""/><br/><sub><b>깃허브</b></sub></a><br/></td>
+     <td align="center"><a href="https://github.com/eug2ne"><img src="https://github.com/eug2ne.png" width="80px;" alt=""/><br/><sub><b>31기 강지원</b></sub></a><br/></td>
+  </tr>
+</table>
+<br>
                                                                                                                                        
 																																																																				 
                                                                                                                                 
