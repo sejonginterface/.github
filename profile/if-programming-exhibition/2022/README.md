@@ -10,6 +10,6 @@
 <a href='https://un-jjola.github.io/JAJ/'><img height ="60" src='../GitHub-Mark-120px-plus.png'/></a>
 
 <p align="center">
-  <img width = "400px;" src="2022-team-anjjoljo.png" />
+  <img width = "600px;" src="2022-team-anjjoljo.png" />
 </p>
 
