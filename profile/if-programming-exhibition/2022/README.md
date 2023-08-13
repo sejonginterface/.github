@@ -16,7 +16,7 @@
 ## 동방런
 > 인터페이스 동아리 회원들이 공감할 수 있는 스토리의 횡스크롤 러닝 액션 게임
 
-<a href='https://github.com/DongBangRun/'><img height ="60" src='../GitHub-Mark-120px-plus.png'/></a>
+<a href='https://github.com/DongBangRun/'><img height ="60" src='../GitHub-Mark-120px-plus.png'/><img height ="60px;" src='https://blog.kakaocdn.net/dn/c2yJ7I/btqwXeUM6jI/a3WrMGPo9vakaDzQWepkOK/img.jpg'/></a>
 
 <p align="center">
   <img width = "600px;" src="2022-team-dongbangrun.png" />
