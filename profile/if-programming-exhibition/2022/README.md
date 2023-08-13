@@ -16,5 +16,17 @@
 ## 동방런
 > 인터페이스 동아리 회원들이 공감할 수 있는 스토리의 횡스크롤 러닝 액션 게임
 
+<a href='https://github.com/DongBangRun/'><img height ="60" src='../GitHub-Mark-120px-plus.png'/></a>
 
+<p align="center">
+  <img width = "600px;" src="2022-team-dongbangrun.png" />
+</p>
 
+## 인터페이스 기술 블로그
+> 동아리에서 진행한 프로젝트를 기록하고 인터페이스 홍보 및 홈페이지 활성화
+
+<a href='https://interfacedeblog.netlify.app/'><img height ="60" src='../GitHub-Mark-120px-plus.png'/></a>
+
+<p align="center">
+  <img width = "600px;" src="2022-team-interfacedeblog.png" />
+</p>
