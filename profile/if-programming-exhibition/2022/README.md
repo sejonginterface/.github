@@ -39,3 +39,13 @@
 <p align="center">
   <img width = "600px;" src="2022-team-stack-oversky.png" />
 </p>
+
+## 인터페이스 챗봇
+> 인터페이스 동아리원과 세종대학교 학생들이 인터페이스에 대해서 궁금한 점이나 알고 싶은
+점이 있을 때 이용할 수 있는 챗봇
+
+<a href='https://pf.kakao.com/_reezxj'><img height ="60" src='../GitHub-Mark-120px-plus.png'/></a>
+
+<p align="center">
+  <img width = "300px;" src="2022-team-interfacechatbot.png" />
+</p>
