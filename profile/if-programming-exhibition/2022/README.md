@@ -66,3 +66,11 @@
   <img width = "287px;" src="2022-team-interfaceapp4.png" />
   <img width = "300px;" src="2022-team-interfaceapp5.png" />
 </p>
+
+## 보글부글
+> 지도 학습 기반의 분류 모델을 이용한 주거 환경 및 생활 습관 모니터링 어플리케이션 개발
+
+<p align="center">
+  <img width = "292px;" src="2022-team-interfaceapp2.png" />
+  <img width = "300px;" src="2022-team-interfaceapp3.png" />
+</p>
