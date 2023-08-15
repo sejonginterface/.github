@@ -71,6 +71,11 @@
 > 지도 학습 기반의 분류 모델을 이용한 주거 환경 및 생활 습관 모니터링 어플리케이션 개발
 
 <p align="center">
-  <img width = "292px;" src="2022-team-interfaceapp2.png" />
-  <img width = "300px;" src="2022-team-interfaceapp3.png" />
+  <img width = "300px;" src="2022-team-bogleboogle1.png" />
+  <img width = "265px;" src="2022-team-bogleboogle2.png" />
+</p>
+
+<p align="center">
+  <img width = "272px;" src="2022-team-bogleboogle3.png" />
+  <img width = "300px;" src="2022-team-bogleboogle4.png" />
 </p>
