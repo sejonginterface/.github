@@ -19,8 +19,6 @@
 <a href='https://github.com/DongBangRun/'><img height ="60" src='../GitHub-Mark-120px-plus.png'/></a><a href='https://www.youtube.com/watch?v=CgjnbhqhUyk&feature=youtu.be'><img alt='Youtube' height ="60px;" src='https://blog.kakaocdn.net/dn/c2yJ7I/btqwXeUM6jI/a3WrMGPo9vakaDzQWepkOK/img.jpg'/></a>
 
 <p align="center">
-
-<p align="center">
   <img width = "600px;" src="2022-team-dongbangrun.png" />
 </p>
 
@@ -31,4 +29,13 @@
 
 <p align="center">
   <img width = "600px;" src="2022-team-interfacedeblog.png" />
+</p>
+
+## Stack-Oversky
+> 제 2회 프로그래밍 전시회 작 ‘Stack Tower’를 디벨롭한 게임! 상대보다 탑을 먼저 쌓거나 목표로 하는 위치까지 빨리 도달하는 내용의 픽셀 그래픽을 이용한 2D 멀티 탑쌓기 게임
+
+<a href='https://github.com/stack-oversky/Stack-Oversky'><img height ="60" src='../GitHub-Mark-120px-plus.png'/></a>
+
+<p align="center">
+  <img width = "600px;" src="2022-team-stack-oversky.png" />
 </p>
