@@ -49,3 +49,8 @@
 <p align="center">
   <img width = "300px;" src="2022-team-interfacechatbot.png" />
 </p>
+
+## 인터페이스 커뮤니티 어플
+> 인터페이스 만의 어플의 필요성을 느끼고 이에 따라 각종 기능들을 구현하기 위해 기획
+
+
